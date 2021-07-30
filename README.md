@@ -5,7 +5,8 @@ Flutter widget that defines *numbered lists* *unordered lists* of Widgets and *o
 
 ### Flutter Web
 
-<img src="https://github.com/SudhindraAnegondhi/bulleted_list/blob/main/assets/images/webpage.png">
+![Alt Webpage.png](/assets/webpage.png)
+
 
 ```dart
 ...
@@ -49,7 +50,7 @@ Flutter widget that defines *numbered lists* *unordered lists* of Widgets and *o
 
 ### Android Phone
 
-<img src="https://github.com/SudhindraAnegondhi/bulleted_list/blob/main/assets/images/bulleted_list.png">
+![Alt bulleted_list.png](/assets/bulleted_list.png)
 
 
 ```dart
