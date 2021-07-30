@@ -64,6 +64,11 @@ class MyHomePage extends StatelessWidget {
                 listOrder: ListOrder.ordered,
               ),
               BulletedList(
+                listItems:names,
+                listOrder: ListOrder.ordered,
+                bulletType: BulletType.numbered,
+              ),
+              BulletedList(
                 listItems: widgets,
                 bullet: Icon(Icons.star),
               ),
